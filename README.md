@@ -72,9 +72,9 @@ Two Options:
 	- ```libcurl4-openssl-dev libpcap-dev  libatk1.0-0  libxcomposite-dev  libxrandr2  libxkbcommon-x11-0  python3-pip  vim  curl  zsh  git  net-tools  tmux  build-essential  make  python3-apt  python3-distutils  libssl-dev  curl  zsh  git  vim  jq  php```
 
 - N Option👉🏽
-  <img width="732" alt="image" src="https://github.com/rjsoheil/Tool_Installer/assets/86692314/d769c472-b697-4274-8436-2ddab1e0ddf4">
+- <img width="732" alt="image" src="https://github.com/rjsoheil/Tool_Installer/assets/86692314/d769c472-b697-4274-8436-2ddab1e0ddf4">
 
-   - 1 -> Clear :)
+   - 1 -> Clear 😉
 
    - 2 :
        ![image](https://github.com/rjsoheil/Tool_Installer/assets/86692314/facc4cac-5dbc-43cd-a84f-cf70bd8f3db8)
