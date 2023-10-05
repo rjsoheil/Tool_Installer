@@ -3,7 +3,7 @@
 ⚠️ Before using, you need to install Golang
 ## Tools
 
-Go Tools:
+Tools:
 - pdtm -> 14 Tools
 - cut-cdn
 - ffuf
